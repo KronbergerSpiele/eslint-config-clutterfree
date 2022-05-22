@@ -1,6 +1,6 @@
 {
   "name": "@kronbergerspiele/eslint-config-clutterfree",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": ".eslintrc.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "author": "Johannes Goslar <jogo@kronberger-spiele.de>",
   "license": "GPL-3.0+",
-  "devDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
     "eslint": "^8.16.0",
