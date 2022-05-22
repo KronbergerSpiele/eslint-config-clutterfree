@@ -26,6 +26,7 @@ module.exports = {
     'no-unused-vars': 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react/react-in-jsx-scope': 'off',
+    'space-before-function-paren': 'off',
     'import/order': [
       'error',
       {

@@ -1,6 +1,6 @@
 {
   "name": "@kronbergerspiele/eslint-config-clutterfree",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "",
   "main": ".eslintrc.js",
   "scripts": {
