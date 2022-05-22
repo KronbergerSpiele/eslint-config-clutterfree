@@ -24,8 +24,8 @@ module.exports = {
     'react/forbid-prop-types': 2,
     'react/prop-types': 'off',
     'no-unused-vars': 'off',
-    'space-before-function-paren': ['error', 'never'],
     'react-hooks/rules-of-hooks': 'error',
+    'react/react-in-jsx-scope': 'off',
     'import/order': [
       'error',
       {
